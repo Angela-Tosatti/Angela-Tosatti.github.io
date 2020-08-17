@@ -1,0 +1,41 @@
+* {
+    text-align: center;
+    font: normal 10pt arial;
+    font: bold;
+}
+
+body {
+    background-image: url(https://images.unsplash.com/photo-1593982624332-9c7a6ac54341?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
+    background-size: cover;
+    border: solid 3px black;
+    padding: 5px 5px;
+    margin: 5px;
+}
+
+#tabela {
+    width: 100%;
+    border: solid 1px;
+    text-align: center;
+    background-color: rgb(63, 34, 5);
+    border-radius: 5px;
+}
+
+td {
+    border: solid 1px;
+    text-align: center;
+    background-color: rgb(236, 167, 97);
+    height: 8vh;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+button {
+    background-color: rgb(238, 187, 135);
+}
+
+td img {
+    border-radius: 20px;
+}
