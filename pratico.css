@@ -1,6 +1,5 @@
 * {
-    text-align: center;
-    font: normal 10pt arial;
+    font: normal 11pt arial;
     font: bold;
 }
 
@@ -22,9 +21,8 @@ body {
 
 td {
     border: solid 1px;
-    text-align: center;
-    background-color: rgb(236, 167, 97);
-    height: 8vh;
+    background-color: rgb(134, 102, 90);
+    height: 7vh;
 }
 
 a {
@@ -33,9 +31,9 @@ a {
 }
 
 button {
-    background-color: rgb(238, 187, 135);
+    background-color: rgb(231, 101, 61);
 }
 
 td img {
-    border-radius: 20px;
+    border-radius: 15px;
 }

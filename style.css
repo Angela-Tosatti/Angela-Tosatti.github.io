@@ -1,0 +1,13 @@
+* {
+    background-color: chocolate;
+    font-size: 1.2em;
+    font: normal arial;
+    font: bold;
+    border-radius: 25px;
+    text-align: center;
+}
+
+p img {
+    width: 15vw;
+    height: 30vh;
+}
